@@ -34,8 +34,8 @@ A simple Applicant Tracking System (ATS) built with **HTML**, **CSS**, and **Jav
 
 ## 🔐 Admin Login
 
-Username: admin
-Password: admin123
+- **Username: admin**
+- **Password: admin123**
 
 ---
 
