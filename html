@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Recruitment Portal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Recruitment Portal</h1>
+    </header>
+
+    <div class="admin-login" id="adminLogin">
+        <h2>Admin Login</h2>
+        <input type="text" id="adminUser" placeholder="Username" />
+        <input type="password" id="adminPass" placeholder="Password" />
+        <button onclick="loginAdmin()">Login</button>
+    </div>
+
+    <div class="container" id="portal" style="display: none;">
+        <h2>Apply for a Job</h2>
+        <form id="jobForm">
+            <input type="text" id="name" placeholder="Full Name" required />
+            <input type="email" id="email" placeholder="Email Address" required />
+            <select id="position" required>
+                <option value="">Select Position</option>
+                <option value="Frontend Developer">Frontend Developer</option>
+                <option value="Backend Developer">Backend Developer</option>
+                <option value="HR Executive">HR Executive</option>
+            </select>
+            <textarea id="cover" placeholder="Cover Letter" rows="4" required></textarea>
+            <input type="file" id="resume" accept=".pdf,.doc,.docx" required />
+            <button type="submit">Submit Application</button>
+        </form>
+
+        <h2>Submitted Applications</h2>
+        <select id="filter">
+            <option value="">All Positions</option>
+            <option value="Frontend Developer">Frontend Developer</option>
+            <option value="Backend Developer">Backend Developer</option>
+            <option value="HR Executive">HR Executive</option>
+        </select>
+        <div id="applications"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
