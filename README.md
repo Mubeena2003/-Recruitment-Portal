@@ -1,54 +1,51 @@
-# 🧑‍💼 Recruitment Portal (Mini ATS System)
+# 🧾 Recruitment Portal (Mini ATS System)
 
-This is a simple recruitment portal project built using **HTML**, **CSS**, and **JavaScript**. It simulates a basic **Applicant Tracking System (ATS)** where users can apply for jobs and HR can view submitted applications.
-
----
-
-## ✨ Features
-
-- Job application form (Name, Email, Position, Cover Letter)
-- Stores applications in the browser using `localStorage`
-- Displays submitted applications in a clean format
-- Fully front-end based (no backend required)
+A simple Applicant Tracking System (ATS) built with **HTML**, **CSS**, and **JavaScript**. It allows users to submit job applications, upload resumes, and view/filter submissions. An admin login panel gives access to submitted applications with the ability to **edit**, **delete**, and **filter by job position**.
 
 ---
 
-## 🚀 How to Run
+## 🚀 Features
 
-1. **Clone or download** this repository:
+- 📝 Submit application with name, email, position, cover letter, and resume upload.
+- 📄 Resume upload with **preview/download** support.
+- 🔎 **Filter applications** by job position.
+- 🛠️ **Edit/Delete** any submitted application.
+- 🔐 **Admin login** (hardcoded credentials).
+- 🌐 Responsive and beginner-friendly frontend design.
 
-git clone https://github.com/yourusername/recruitment-portal.git
+---
 
-2. Open the `index.html` file in your browser.
+## 🛠️ Tech Stack
 
-✅ No backend or installation needed – everything works in the browser.
+- **HTML**
+- **CSS**
+- **JavaScript (Vanilla JS)**
+- **Local Storage** for temporary data persistence
 
 ---
 
 ## 📸 Screenshots
 
-![Image](https://github.com/user-attachments/assets/f50b7d6b-0a0a-4f85-9b15-55c7b02cdafc)
+| Admin View | Form |
+|-------------|----------------|
+ ![admin](![Image](https://github.com/user-attachments/assets/c00a9096-dc22-4417-b25c-344b7649476a)) | ![Form](![Image](https://github.com/user-attachments/assets/238b26f9-d71c-42c6-a970-af82e8bb8768)) |
 
 ---
 
-## 📌 Future Improvements
+## 🔐 Admin Login
 
-- Add resume upload feature (with file preview)
-- Enable filtering by job position
-- Add delete/edit functionality for submitted applications
-- Create admin login page
-- Connect to a real database backend
+```bash
+Username: admin
+Password: admin123
 
 ---
 
-## 👤 Author
+## 🚀 Features
 
-**Mubeena M**  
-🎓 B.E. in Agricultural Engineering  
-🌐 Personal Portfolio: *coming soon*  
-📫 [LinkedIn](https://www.linkedin.com/in/mubeenamohammadismail-m-/) (update with your link)
+- 📝 Job application form with input fields
+- 📄 Resume upload feature with file preview (downloadable link)
+- 🔎 Filter applications by job position
+- 🛠️ Edit/Delete functionality for submitted applications
+- 🔐 Admin login authentication
 
----
 
-
-  
