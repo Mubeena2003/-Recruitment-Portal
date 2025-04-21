@@ -27,7 +27,7 @@ git clone https://github.com/yourusername/recruitment-portal.git
 
 ## 📸 Screenshots
 
-(Add your screenshots here if you have them – showing the form and submitted application UI.)
+![Image](https://github.com/user-attachments/assets/f50b7d6b-0a0a-4f85-9b15-55c7b02cdafc)
 
 ---
 
@@ -46,13 +46,7 @@ git clone https://github.com/yourusername/recruitment-portal.git
 **Mubeena M**  
 🎓 B.E. in Agricultural Engineering  
 🌐 Personal Portfolio: *coming soon*  
-📫 [LinkedIn](https://linkedin.com) (update with your link)
-
----
-
-## 📃 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
+📫 [LinkedIn](https://www.linkedin.com/in/mubeenamohammadismail-m-/) (update with your link)
 
 ---
 
