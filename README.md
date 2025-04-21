@@ -28,13 +28,12 @@ A simple Applicant Tracking System (ATS) built with **HTML**, **CSS**, and **Jav
 
 | Admin View | Form |
 |-------------|----------------|
- ![admin](![Image](https://github.com/user-attachments/assets/c00a9096-dc22-4417-b25c-344b7649476a)) | ![Form](![Image](https://github.com/user-attachments/assets/238b26f9-d71c-42c6-a970-af82e8bb8768)) |
+ ![admin](![Image](https://github.com/user-attachments/assets/238b26f9-d71c-42c6-a970-af82e8bb8768)) | ![Form](![Image](https://github.com/user-attachments/assets/977e0b2c-b653-4f72-86b1-349b76c8200d)) |
 
 ---
 
 ## 🔐 Admin Login
 
-```bash
 Username: admin
 Password: admin123
 
